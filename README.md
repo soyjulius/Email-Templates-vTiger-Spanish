@@ -20,4 +20,4 @@ Es muy facil usar las plantillas:
   - Guardas
 
 # ver Demo
-Puedes ver un demo de la plantilla. <https://orzalaga.github.io/Email-Templates-vTiger-Spanish/Email%20Templates/Activity%20Reminder.html>
+Puedes ver un demo de la [plantilla ](https://orzalaga.github.io/Email-Templates-vTiger-Spanish/Email%20Templates/Activity%20Reminder.html)
